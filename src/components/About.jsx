@@ -10,7 +10,7 @@ const About = () => {
       exit={{ opacity: 0 }}
     >
       <h2>About Me</h2>
-      <p>Welcome to my portfolio! I am a web developer...</p>
+      <p>Welcome to my portfolio! My name is Faydah and I am an aspiring web developer...</p>
     </motion.section>
   );
 };
